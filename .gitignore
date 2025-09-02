@@ -1,0 +1,68 @@
+# Ignore build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64*/
+
+# Visual Studio cache and temp files
+.vs/
+*.VC.db
+*.VC.opendb
+*.ipch
+*.sdf
+*.opensdf
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.appx
+*.iobj
+*.ipdb
+
+# Auto-generated files
+GeneratedFiles/
+*.log
+*.tlog
+
+# Package directories
+packages/
+*.nupkg
+
+# Other
+[Bb]uild/
+[Tt]emp/
+*.cache
+*.db
+*.obj
+*.pch
+*.idb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# JetBrains Rider / ReSharper
+.idea/
+_ReSharper.Caches/
+
+# CMake build dirs (if used inside VS)
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
