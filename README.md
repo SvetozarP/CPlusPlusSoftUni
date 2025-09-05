@@ -19,6 +19,18 @@ This module covers the fundamental concepts of programming with C++, including b
 8. **08-ZooShop** - Calculates total cost for dog and cat food purchases
 9. **09-YardGreening** - Calculates final price with discount for yard greening services
 
+#### Additional Practice Exercises:
+
+10. **booksToRead** - Calculates daily reading hours needed to finish a book within a given timeframe
+11. **consoleConverterUSDBGN** - Currency converter from USD to BGN with fixed decimal precision
+12. **depositCalculator** - Calculates final deposit amount with monthly interest over a specified term
+13. **radiansToDegreesConvert** - Converts radians to degrees using mathematical constants
+14. **05suppliesForSchool** - Calculates total cost for school supplies (pens, markers, solution) with discount
+15. **06repainting** - Calculates total cost for house repainting including materials and labor
+16. **07foodDelivery** - Calculates total food delivery order cost including menu items, dessert, and delivery fee
+17. **08basketballEquipment** - Calculates total cost for basketball equipment based on annual training cost
+18. **09fishTank** - Calculates water volume needed for a fish tank accounting for decorations and space
+
 ## 🛠️ Technical Details
 
 - **Language**: C++
@@ -41,6 +53,17 @@ CPlusPlus/
 │   ├── 08-ZooShop/
 │   ├── 09-YardGreening/
 │   └── FirstStepsInCoding.sln
+├── firstStepsInCodingEx/
+│   ├── booksToRead/
+│   ├── consoleConverterUSDBGN/
+│   ├── depositCalculator/
+│   ├── radiansToDegreesConvert/
+│   ├── 05suppliesForSchool/
+│   ├── 06repainting/
+│   ├── 07foodDelivery/
+│   ├── 08basketballEquipment/
+│   ├── 09fishTank/
+│   └── firstStepsInCodingEx.sln
 └── README.md
 ```
 
@@ -56,7 +79,9 @@ Each exercise folder contains:
 - Windows OS (based on the project structure)
 
 ### Running the Programs
-1. Open the solution file `FirstStepsInCoding.sln` in Visual Studio
+1. Open either solution file in Visual Studio:
+   - `FirstStepsInCoding.sln` for the main exercises
+   - `firstStepsInCodingEx.sln` for additional practice exercises
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -75,8 +100,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Variables**: Declaring and initializing variables
 - **Arithmetic Operations**: Basic mathematical calculations
 - **String Manipulation**: Combining text and variables
-- **Formatting Output**: Using `setf()` and `precision()` for formatted output
+- **Formatting Output**: Using `setf()`, `precision()`, and `setprecision()` for formatted output
 - **Problem Solving**: Breaking down real-world problems into code solutions
+- **Mathematical Functions**: Using `floor()` and `round()` for number manipulation
+- **Mathematical Constants**: Working with PI and conversion factors
+- **Financial Calculations**: Interest calculations, currency conversion, and cost analysis
+- **Volume Calculations**: 3D geometry and unit conversions
+- **Complex Logic**: Multi-step calculations with percentages and discounts
 
 ## 🎯 Key Concepts Covered
 
@@ -87,6 +117,12 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - String handling
 - Output formatting
 - Problem decomposition and algorithm design
+- Mathematical functions (`floor`, `round`)
+- Mathematical constants (PI)
+- Currency conversion and financial calculations
+- Volume and area calculations
+- Percentage calculations and discounts
+- Complex multi-step problem solving
 
 ## 📈 Future Plans
 
@@ -105,3 +141,4 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 *Last updated: 02/09/2025*
 *Course: SoftUni C++ Programming*
+
