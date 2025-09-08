@@ -4,7 +4,7 @@ This repository contains my solutions to programming exercises from the C++ cour
 
 ## 📚 Course Structure
 
-### First Steps in Coding
+### 01 - First Steps in Coding
 This module covers the fundamental concepts of programming with C++, including basic syntax, data types, input/output operations, and simple calculations.
 
 #### Exercises Completed:
@@ -19,17 +19,33 @@ This module covers the fundamental concepts of programming with C++, including b
 8. **08-ZooShop** - Calculates total cost for dog and cat food purchases
 9. **09-YardGreening** - Calculates final price with discount for yard greening services
 
+### 02 - First Steps in Coding (Additional Practice)
+This module contains additional practice exercises to reinforce the concepts learned in the first module.
+
 #### Additional Practice Exercises:
 
-10. **booksToRead** - Calculates daily reading hours needed to finish a book within a given timeframe
-11. **consoleConverterUSDBGN** - Currency converter from USD to BGN with fixed decimal precision
-12. **depositCalculator** - Calculates final deposit amount with monthly interest over a specified term
-13. **radiansToDegreesConvert** - Converts radians to degrees using mathematical constants
-14. **05suppliesForSchool** - Calculates total cost for school supplies (pens, markers, solution) with discount
-15. **06repainting** - Calculates total cost for house repainting including materials and labor
-16. **07foodDelivery** - Calculates total food delivery order cost including menu items, dessert, and delivery fee
-17. **08basketballEquipment** - Calculates total cost for basketball equipment based on annual training cost
-18. **09fishTank** - Calculates water volume needed for a fish tank accounting for decorations and space
+1. **booksToRead** - Calculates daily reading hours needed to finish a book within a given timeframe
+2. **consoleConverterUSDBGN** - Currency converter from USD to BGN with fixed decimal precision
+3. **depositCalculator** - Calculates final deposit amount with monthly interest over a specified term
+4. **radiansToDegreesConvert** - Converts radians to degrees using mathematical constants
+5. **05suppliesForSchool** - Calculates total cost for school supplies (pens, markers, solution) with discount
+6. **06repainting** - Calculates total cost for house repainting including materials and labor
+7. **07foodDelivery** - Calculates total food delivery order cost including menu items, dessert, and delivery fee
+8. **08basketballEquipment** - Calculates total cost for basketball equipment based on annual training cost
+9. **09fishTank** - Calculates water volume needed for a fish tank accounting for decorations and space
+
+### 03 - Conditional Statements Lab
+This module introduces conditional statements and logical operations in C++, covering if-else statements, comparison operators, and decision-making logic.
+
+#### Exercises Completed:
+
+1. **01excellentResult** - Checks if a grade is excellent (5.50 or higher)
+2. **02greaterNumber** - Finds and displays the greater of two numbers
+3. **03evenOrOdd** - Determines if a number is even or odd
+4. **04passwordGuess** - Validates a password guess against a predefined password
+5. **05numberFrom100To200** - Checks if a number is between 100 and 200
+6. **06speedInfo** - Provides speed information based on input speed value
+7. **07areaOfFigures** - Calculates area of different geometric shapes based on user choice
 
 ## 🛠️ Technical Details
 
@@ -42,8 +58,9 @@ This module covers the fundamental concepts of programming with C++, including b
 
 ```
 CPlusPlus/
-├── FirstStepsInCoding/
-│   ├── 01-HelloSoftUni/
+├── 01FirstStepsInCoding/
+│   ├── FirstStepsInCoding/
+│   │   └── 01-HelloSoftUni/
 │   ├── 02-NumbersOneToTen/
 │   ├── 03-RectangleArea/
 │   ├── 04-ConvertInchesToCM/
@@ -53,7 +70,7 @@ CPlusPlus/
 │   ├── 08-ZooShop/
 │   ├── 09-YardGreening/
 │   └── FirstStepsInCoding.sln
-├── firstStepsInCodingEx/
+├── 02FirstStepsInCodingEx/
 │   ├── booksToRead/
 │   ├── consoleConverterUSDBGN/
 │   ├── depositCalculator/
@@ -64,6 +81,15 @@ CPlusPlus/
 │   ├── 08basketballEquipment/
 │   ├── 09fishTank/
 │   └── firstStepsInCodingEx.sln
+├── 03ConditionalStatementsLab/
+│   ├── 01excellentResult/
+│   ├── 02greaterNumber/
+│   ├── 03evenOrOdd/
+│   ├── 04passwordGuess/
+│   ├── 05numberFrom100To200/
+│   ├── 06speedInfo/
+│   ├── 07areaOfFigures/
+│   └── conditionalStatementsLab.sln
 └── README.md
 ```
 
@@ -79,9 +105,10 @@ Each exercise folder contains:
 - Windows OS (based on the project structure)
 
 ### Running the Programs
-1. Open either solution file in Visual Studio:
-   - `FirstStepsInCoding.sln` for the main exercises
-   - `firstStepsInCodingEx.sln` for additional practice exercises
+1. Open the appropriate solution file in Visual Studio:
+   - `01FirstStepsInCoding/FirstStepsInCoding.sln` for the main exercises
+   - `02FirstStepsInCodingEx/firstStepsInCodingEx.sln` for additional practice exercises
+   - `03ConditionalStatementsLab/conditionalStatementsLab.sln` for conditional statements exercises
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -107,6 +134,11 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Financial Calculations**: Interest calculations, currency conversion, and cost analysis
 - **Volume Calculations**: 3D geometry and unit conversions
 - **Complex Logic**: Multi-step calculations with percentages and discounts
+- **Conditional Statements**: Using `if`, `else if`, and `else` for decision making
+- **Comparison Operators**: Working with `==`, `!=`, `<`, `>`, `<=`, `>=`
+- **Logical Operations**: Understanding boolean logic and conditions
+- **Input Validation**: Checking user input against expected values
+- **Range Checking**: Validating numbers within specific ranges
 
 ## 🎯 Key Concepts Covered
 
@@ -123,11 +155,16 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Volume and area calculations
 - Percentage calculations and discounts
 - Complex multi-step problem solving
+- Conditional statements (`if`, `else if`, `else`)
+- Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
+- Boolean logic and conditions
+- Input validation and range checking
+- Decision-making algorithms
 
 ## 📈 Future Plans
 
 This repository will continue to grow as I progress through more advanced C++ topics including:
-- Conditional statements and loops
+- Loops and iterations
 - Functions and arrays
 - Object-oriented programming
 - Data structures and algorithms
@@ -139,6 +176,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 02/09/2025*
+*Last updated: 08/09/2025*
 *Course: SoftUni C++ Programming*
 
