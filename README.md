@@ -47,6 +47,20 @@ This module introduces conditional statements and logical operations in C++, cov
 6. **06speedInfo** - Provides speed information based on input speed value
 7. **07areaOfFigures** - Calculates area of different geometric shapes based on user choice
 
+### 04 - Conditional Statements Exercise
+This module provides advanced practice with conditional statements, covering complex business logic, time calculations, and real-world problem solving scenarios.
+
+#### Exercises Completed:
+
+1. **SumSeconds** - Converts three time values to total minutes and seconds with proper formatting
+2. **02bonusPoints** - Calculates bonus points based on input value with additional bonuses for even numbers and numbers ending in 5
+3. **03timePlus15Minutes** - Adds 15 minutes to a given time and handles hour overflow (24-hour format)
+4. **04toyShop** - Calculates toy shop profit with discounts and determines if vacation can be afforded
+5. **05godzillaVsKong** - Movie budget calculator with clothing discounts for large crews
+6. **06worldSwimmingRecord** - Determines if a swimming time breaks the world record considering water resistance
+7. **07shopping** - Shopping cost calculator with delivery fees and discounts
+8. **08lunchBreak** - Time management calculator for lunch breaks
+
 ## 🛠️ Technical Details
 
 - **Language**: C++
@@ -90,6 +104,16 @@ CPlusPlus/
 │   ├── 06speedInfo/
 │   ├── 07areaOfFigures/
 │   └── conditionalStatementsLab.sln
+├── 04ConditionalStatementsExercise/
+│   ├── SumSeconds/
+│   ├── 02bonusPoints/
+│   ├── 03timePlus15Minutes/
+│   ├── 04toyShop/
+│   ├── 05godzillaVsKong/
+│   ├── 06worldSwimmingRecord/
+│   ├── 07shopping/
+│   ├── 08lunchBreak/
+│   └── ConditionalStatementsExercise.sln
 └── README.md
 ```
 
@@ -109,6 +133,7 @@ Each exercise folder contains:
    - `01FirstStepsInCoding/FirstStepsInCoding.sln` for the main exercises
    - `02FirstStepsInCodingEx/firstStepsInCodingEx.sln` for additional practice exercises
    - `03ConditionalStatementsLab/conditionalStatementsLab.sln` for conditional statements exercises
+   - `04ConditionalStatementsExercise/ConditionalStatementsExercise.sln` for advanced conditional statements exercises
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -139,6 +164,11 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Logical Operations**: Understanding boolean logic and conditions
 - **Input Validation**: Checking user input against expected values
 - **Range Checking**: Validating numbers within specific ranges
+- **Time Calculations**: Converting between hours, minutes, and seconds with overflow handling
+- **Modulo Operations**: Using `%` for remainder calculations and number pattern recognition
+- **Complex Business Logic**: Multi-tier discount systems and profit calculations
+- **Budget Management**: Cost analysis with conditional discounts and expense tracking
+- **Performance Analysis**: Comparing results against benchmarks and records
 
 ## 🎯 Key Concepts Covered
 
@@ -160,6 +190,11 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Boolean logic and conditions
 - Input validation and range checking
 - Decision-making algorithms
+- Time arithmetic and overflow handling
+- Modulo operations and number patterns
+- Complex business logic and multi-tier systems
+- Budget analysis and cost optimization
+- Performance benchmarking and record comparison
 
 ## 📈 Future Plans
 
@@ -176,6 +211,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 08/09/2025*
+*Last updated: 12/09/2025*
 *Course: SoftUni C++ Programming*
 
