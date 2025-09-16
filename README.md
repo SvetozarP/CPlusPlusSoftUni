@@ -61,6 +61,24 @@ This module provides advanced practice with conditional statements, covering com
 7. **07shopping** - Shopping cost calculator with delivery fees and discounts
 8. **08lunchBreak** - Time management calculator for lunch breaks
 
+### 05 - Conditional Statements Advanced
+This module introduces advanced conditional programming concepts including switch statements, complex nested conditions, and multi-dimensional decision making with real-world business applications.
+
+#### Exercises Completed:
+
+1. **01dayOfWeek** - Uses switch statement to convert day numbers (1-7) to day names with error handling
+2. **02weekendOrWorkingDay** - Determines if a given day name is a weekend or working day using string comparison
+3. **03animalType** - Classifies animals into mammal, reptile, or unknown categories based on input
+4. **04personalTitles** - Determines appropriate title (Mr./Ms./Master/Miss) based on age and gender
+5. **05smallShop** - Multi-city product pricing calculator with different prices for Sofia, Plovdiv, and Varna
+6. **06numberInRange** - Validates if a number is within the range -100 to 100 (excluding 0)
+7. **07workingHours** - Determines if a business is open based on day of week and hour
+8. **08cinemaTicket** - Calculates cinema ticket prices based on day of the week
+9. **09fruitOrVeg** - Classifies food items as fruit, vegetable, or unknown
+10. **10invalidNumber** - Validates if a number is invalid (not in range 100-200 and not 0)
+11. **11fruitShop** - Complex fruit pricing system with different prices for weekdays vs weekends
+12. **12tradeCommissions** - Multi-tier commission calculator based on city and sales amount
+
 ## 🛠️ Technical Details
 
 - **Language**: C++
@@ -114,6 +132,20 @@ CPlusPlus/
 │   ├── 07shopping/
 │   ├── 08lunchBreak/
 │   └── ConditionalStatementsExercise.sln
+├── 05ConditionalStatementsAdvanced/
+│   ├── 01dayOfWeek/
+│   ├── 02weekendOrWorkingDay/
+│   ├── 03animalType/
+│   ├── 04personalTitles/
+│   ├── 05smallShop/
+│   ├── 06numberInRange/
+│   ├── 07workingHours/
+│   ├── 08cinemaTicket/
+│   ├── 09fruitOrVeg/
+│   ├── 10invalidNumber/
+│   ├── 11fruitShop/
+│   ├── 12tradeCommissions/
+│   └── 05ConditionalStatementsAdvanced.sln
 └── README.md
 ```
 
@@ -134,6 +166,7 @@ Each exercise folder contains:
    - `02FirstStepsInCodingEx/firstStepsInCodingEx.sln` for additional practice exercises
    - `03ConditionalStatementsLab/conditionalStatementsLab.sln` for conditional statements exercises
    - `04ConditionalStatementsExercise/ConditionalStatementsExercise.sln` for advanced conditional statements exercises
+   - `05ConditionalStatementsAdvanced/05ConditionalStatementsAdvanced.sln` for advanced conditional statements with switch statements
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -169,6 +202,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Complex Business Logic**: Multi-tier discount systems and profit calculations
 - **Budget Management**: Cost analysis with conditional discounts and expense tracking
 - **Performance Analysis**: Comparing results against benchmarks and records
+- **Switch Statements**: Using `switch`, `case`, `break`, and `default` for multi-way branching
+- **String Comparison**: Advanced string matching and validation techniques
+- **Nested Conditionals**: Complex decision trees with multiple levels of conditions
+- **Multi-dimensional Logic**: Combining multiple criteria for business rule implementation
+- **Error Handling**: Input validation and error state management
+- **Data Classification**: Categorizing inputs into predefined groups or types
+- **Business Rule Implementation**: Real-world pricing, scheduling, and validation systems
 
 ## 🎯 Key Concepts Covered
 
@@ -195,6 +235,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Complex business logic and multi-tier systems
 - Budget analysis and cost optimization
 - Performance benchmarking and record comparison
+- Switch statements and multi-way branching
+- String comparison and pattern matching
+- Nested conditional structures
+- Multi-dimensional decision making
+- Error handling and input validation
+- Data classification and categorization
+- Business rule implementation and validation
 
 ## 📈 Future Plans
 
