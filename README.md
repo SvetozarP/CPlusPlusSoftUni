@@ -79,6 +79,21 @@ This module introduces advanced conditional programming concepts including switc
 11. **11fruitShop** - Complex fruit pricing system with different prices for weekdays vs weekends
 12. **12tradeCommissions** - Multi-tier commission calculator based on city and sales amount
 
+### 06 - Conditional Statements Advanced Exercise
+This module provides comprehensive practice with advanced conditional programming, covering complex business scenarios, multi-dimensional decision making, and real-world problem solving with sophisticated logic structures.
+
+#### Exercises Completed:
+
+1. **01movies** - Cinema ticket pricing calculator based on movie type (Premiere, Normal, Discount) and theater capacity
+2. **02summerOutfit** - Weather-based clothing recommendation system considering temperature and time of day
+3. **03newHouse** - Flower shop pricing calculator with seasonal discounts and budget validation for garden planning
+4. **04fishingBoat** - Fishing boat rental calculator with seasonal pricing and group discount tiers
+5. **05journey** - Travel destination and accommodation calculator based on budget and season
+6. **06operationsBetweenNumbers** - Mathematical operations calculator with result type classification and division by zero handling
+7. **07hotelRoom** - Hotel accommodation pricing with seasonal rates and length-of-stay discounts
+8. **08onTimeForTheExam** - Exam arrival time calculator with early/late/on-time status and time difference formatting
+9. **09skiTrip** - Ski vacation cost calculator with accommodation discounts and rating-based price adjustments
+
 ## 🛠️ Technical Details
 
 - **Language**: C++
@@ -146,6 +161,17 @@ CPlusPlus/
 │   ├── 11fruitShop/
 │   ├── 12tradeCommissions/
 │   └── 05ConditionalStatementsAdvanced.sln
+├── 06ConditionalStatementsAdvancedEx/
+│   ├── 01movies/
+│   ├── 02summerOutfit/
+│   ├── 03newHouse/
+│   ├── 04fishingBoat/
+│   ├── 05journey/
+│   ├── 06operationsBetweenNumbers/
+│   ├── 07hotelRoom/
+│   ├── 08onTimeForTheExam/
+│   ├── 09skiTrip/
+│   └── 06ConditionalStatementsAdvancedEx.sln
 └── README.md
 ```
 
@@ -167,6 +193,7 @@ Each exercise folder contains:
    - `03ConditionalStatementsLab/conditionalStatementsLab.sln` for conditional statements exercises
    - `04ConditionalStatementsExercise/ConditionalStatementsExercise.sln` for advanced conditional statements exercises
    - `05ConditionalStatementsAdvanced/05ConditionalStatementsAdvanced.sln` for advanced conditional statements with switch statements
+   - `06ConditionalStatementsAdvancedEx/06ConditionalStatementsAdvancedEx.sln` for comprehensive conditional statements practice
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -209,6 +236,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Error Handling**: Input validation and error state management
 - **Data Classification**: Categorizing inputs into predefined groups or types
 - **Business Rule Implementation**: Real-world pricing, scheduling, and validation systems
+- **Multi-dimensional Decision Trees**: Complex nested conditions with multiple criteria evaluation
+- **Seasonal and Temporal Logic**: Time-based and seasonal condition handling
+- **Advanced Mathematical Operations**: Complex calculations with error handling and type conversion
+- **Dynamic Pricing Systems**: Multi-tier pricing with various discount structures
+- **Time Management Algorithms**: Advanced time calculations with formatting and status determination
+- **Budget Analysis and Validation**: Comprehensive financial planning and cost optimization
+- **User Experience Design**: Creating intuitive output formatting and status messages
 
 ## 🎯 Key Concepts Covered
 
@@ -242,6 +276,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Error handling and input validation
 - Data classification and categorization
 - Business rule implementation and validation
+- Multi-dimensional decision trees
+- Seasonal and temporal logic
+- Advanced mathematical operations
+- Dynamic pricing systems
+- Time management algorithms
+- Budget analysis and validation
+- User experience design
 
 ## 📈 Future Plans
 
@@ -258,6 +299,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 12/09/2025*
+*Last updated: 19/09/2025*
 *Course: SoftUni C++ Programming*
 
