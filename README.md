@@ -94,6 +94,20 @@ This module provides comprehensive practice with advanced conditional programmin
 8. **08onTimeForTheExam** - Exam arrival time calculator with early/late/on-time status and time difference formatting
 9. **09skiTrip** - Ski vacation cost calculator with accommodation discounts and rating-based price adjustments
 
+### 08 - For Loop Exercise
+This module introduces for loops and iteration concepts in C++, covering array processing, data analysis, pattern recognition, and complex calculations with repetitive operations. The exercises demonstrate practical applications of loops in real-world scenarios.
+
+#### Exercises Completed:
+
+1. **01numbersEndingOn7** - Prints all numbers from 0 to 999 that end with the digit 7 using modulo operations
+2. **02halfSumElement** - Finds if any element in an array equals the sum of all other elements, with difference calculation
+3. **03histogram** - Categorizes numbers into ranges and calculates percentage distribution for data analysis
+4. **04cleverLily** - Calculates savings over time with alternating birthday money and toy sales, determining if a washing machine can be afforded
+5. **05salary** - Tracks salary deductions based on website visits with early termination when salary reaches zero
+6. **06oscars** - Academy Awards point calculation system with jury scoring and early achievement detection
+7. **07trekkingMania** - Mountain climbing group distribution calculator with percentage analysis across different peak categories
+8. **08tennisRankList** - Tennis tournament point tracking system with win percentage and average point calculations
+
 ## 🛠️ Technical Details
 
 - **Language**: C++
@@ -172,6 +186,16 @@ CPlusPlus/
 │   ├── 08onTimeForTheExam/
 │   ├── 09skiTrip/
 │   └── 06ConditionalStatementsAdvancedEx.sln
+├── 08ForLoopEx/
+│   ├── 01numbersEndingOn7/
+│   ├── 02halfSumElement/
+│   ├── 03histogram/
+│   ├── 04cleverLily/
+│   ├── 05salary/
+│   ├── 06oscars/
+│   ├── 07trekkingMania/
+│   ├── 08tennisRankList/
+│   └── 08ForLoopEx.sln
 └── README.md
 ```
 
@@ -194,6 +218,7 @@ Each exercise folder contains:
    - `04ConditionalStatementsExercise/ConditionalStatementsExercise.sln` for advanced conditional statements exercises
    - `05ConditionalStatementsAdvanced/05ConditionalStatementsAdvanced.sln` for advanced conditional statements with switch statements
    - `06ConditionalStatementsAdvancedEx/06ConditionalStatementsAdvancedEx.sln` for comprehensive conditional statements practice
+   - `08ForLoopEx/08ForLoopEx.sln` for for loop exercises and array processing
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
 
@@ -243,6 +268,14 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Time Management Algorithms**: Advanced time calculations with formatting and status determination
 - **Budget Analysis and Validation**: Comprehensive financial planning and cost optimization
 - **User Experience Design**: Creating intuitive output formatting and status messages
+- **For Loops**: Iteration control with initialization, condition, and increment
+- **Array Processing**: Dynamic array allocation, element access, and manipulation
+- **Data Analysis**: Statistical calculations, percentage distributions, and categorization
+- **Memory Management**: Dynamic memory allocation with `new` and `delete` operators
+- **Loop Control Structures**: `break` statements for early termination and conditional execution
+- **Mathematical Accumulation**: Summation, averaging, and statistical operations in loops
+- **String Processing**: Character analysis and string manipulation within iterative structures
+- **Performance Considerations**: Algorithm efficiency and loop optimization techniques
 
 ## 🎯 Key Concepts Covered
 
@@ -287,8 +320,8 @@ This repository demonstrates my progression through fundamental C++ concepts:
 ## 📈 Future Plans
 
 This repository will continue to grow as I progress through more advanced C++ topics including:
-- Loops and iterations
-- Functions and arrays
+- While and do-while loops
+- Functions and advanced array operations
 - Object-oriented programming
 - Data structures and algorithms
 - Advanced C++ features
@@ -299,6 +332,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 19/09/2025*
+*Last updated: 25/09/2025*
 *Course: SoftUni C++ Programming*
 
