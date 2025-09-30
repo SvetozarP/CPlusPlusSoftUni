@@ -124,6 +124,20 @@ This module introduces for loops and iteration concepts in C++, covering array p
 7. **07trekkingMania** - Mountain climbing group distribution calculator with percentage analysis across different peak categories
 8. **08tennisRankList** - Tennis tournament point tracking system with win percentage and average point calculations
 
+### 09 - While Loop
+This module introduces while loops and advanced iteration control in C++, covering indefinite loops, user input validation, data accumulation, and complex conditional iteration patterns. The exercises demonstrate practical applications of while loops in real-world scenarios including authentication, data processing, and academic tracking.
+
+#### Exercises Completed:
+
+1. **01readText** - Reads and displays text input until "Stop" is entered using while loop with string comparison
+2. **02password** - Password authentication system with infinite loop until correct password is entered
+3. **03sumNumbers** - Accumulates numbers until sum reaches or exceeds a target value
+4. **04sequence2k1** - Generates and displays sequence of numbers using formula: next = current * 2 + 1
+5. **05accountBalance** - Bank account balance calculator with deposit tracking and error handling for negative amounts
+6. **06maxNumber** - Finds maximum number from a sequence of inputs until "Stop" is entered
+7. **07minNumber** - Finds minimum number from a sequence of inputs until "Stop" is entered
+8. **08graduation** - Student grade tracking system with exclusion logic for failing grades and average calculation
+
 
 ## 🛠️ Technical Details
 
@@ -225,6 +239,16 @@ CPlusPlus/
 │   ├── 07trekkingMania/
 │   ├── 08tennisRankList/
 │   └── 08ForLoopEx.sln
+├── 09WhileLoop/
+│   ├── 01readText/
+│   ├── 02password/
+│   ├── 03sumNumbers/
+│   ├── 04sequence2k1/
+│   ├── 05accountBalance/
+│   ├── 06maxNumber/
+│   ├── 07minNumber/
+│   ├── 08graduation/
+│   └── 09WhileLoop.sln
 └── README.md
 ```
 
@@ -249,6 +273,7 @@ Each exercise folder contains:
    - `06ConditionalStatementsAdvancedEx/06ConditionalStatementsAdvancedEx.sln` for comprehensive conditional statements practice
    - `07ForLoopLab/07ForLoopLab.sln` for for loop exercises
    - `08ForLoopEx/08ForLoopEx.sln` for for loop exercises and array processing
+   - `09WhileLoop/09WhileLoop.sln` for while loop exercises and advanced iteration control
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -317,6 +342,17 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Min/Max Finding**: Implementing algorithms to find minimum and maximum values
 - **Sequence Comparison**: Comparing and analyzing multiple data sequences
 - **Position-based Processing**: Processing data based on position (even/odd indices)
+- **While Loops**: Indefinite iteration control with condition-based termination
+- **Infinite Loop Control**: Using `while(true)` with `break` statements for controlled termination
+- **User Input Validation**: Continuous input processing until specific termination conditions
+- **String-based Loop Control**: Using string comparisons to control loop termination
+- **Data Accumulation in Loops**: Building sums and tracking values across iterations
+- **Error Handling in Loops**: Managing invalid input and error conditions within iterative structures
+- **Academic Tracking Systems**: Grade management and student progress monitoring
+- **Authentication Systems**: Password validation and user verification loops
+- **Financial Calculations**: Account balance tracking with deposit accumulation
+- **Sequence Generation**: Mathematical pattern generation using iterative formulas
+- **Min/Max Algorithms**: Finding extreme values from continuous input streams
 
 ## 🎯 Key Concepts Covered
 
@@ -357,11 +393,18 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Time management algorithms
 - Budget analysis and validation
 - User experience design
+- While loops and indefinite iteration
+- Loop control with break statements
+- User input validation and error handling
+- String-based loop termination
+- Data accumulation and tracking
+- Authentication and verification systems
+- Academic progress monitoring
 
 ## 📈 Future Plans
 
 This repository will continue to grow as I progress through more advanced C++ topics including:
-- While and do-while loops
+- Do-while loops and advanced loop structures
 - Functions and advanced array operations
 - Object-oriented programming
 - Data structures and algorithms
@@ -373,6 +416,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 25/09/2025*
+*Last updated: 30/09/2025*
 *Course: SoftUni C++ Programming*
 
