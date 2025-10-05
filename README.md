@@ -138,6 +138,19 @@ This module introduces while loops and advanced iteration control in C++, coveri
 7. **07minNumber** - Finds minimum number from a sequence of inputs until "Stop" is entered
 8. **08graduation** - Student grade tracking system with exclusion logic for failing grades and average calculation
 
+### 10 - While Loop Exercise
+This module provides comprehensive practice with advanced while loop programming, covering complex real-world scenarios, resource management, financial tracking, and sophisticated iteration control patterns. The exercises demonstrate practical applications of while loops in business logic, personal finance, fitness tracking, and inventory management.
+
+#### Exercises Completed:
+
+1. **01oldBooks** - Library book search system that tracks books checked until target book is found or search is terminated
+2. **02examPreparation** - Student exam preparation tracker with grade monitoring, average calculation, and early termination for poor performance
+3. **03vacation** - Vacation savings calculator with daily spending/saving tracking and consecutive spending day limits
+4. **04walking** - Daily step tracking system with goal monitoring and early termination when going home
+5. **05coins** - Change calculation system using greedy algorithm to minimize number of coins needed
+6. **06cake** - Cake serving system that tracks remaining pieces and handles overconsumption scenarios
+7. **07moving** - Moving box tracking system that monitors available space and handles overflow situations
+
 
 ## 🛠️ Technical Details
 
@@ -249,6 +262,15 @@ CPlusPlus/
 │   ├── 07minNumber/
 │   ├── 08graduation/
 │   └── 09WhileLoop.sln
+├── 10WhileLoopEx/
+│   ├── 01oldBooks/
+│   ├── 02examPreparation/
+│   ├── 03vacation/
+│   ├── 04walking/
+│   ├── 05coins/
+│   ├── 06cake/
+│   ├── 07moving/
+│   └── 10WhileLoopEx.sln
 └── README.md
 ```
 
@@ -274,6 +296,7 @@ Each exercise folder contains:
    - `07ForLoopLab/07ForLoopLab.sln` for for loop exercises
    - `08ForLoopEx/08ForLoopEx.sln` for for loop exercises and array processing
    - `09WhileLoop/09WhileLoop.sln` for while loop exercises and advanced iteration control
+   - `10WhileLoopEx/10WhileLoopEx.sln` for advanced while loop exercises and real-world applications
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -353,6 +376,16 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Financial Calculations**: Account balance tracking with deposit accumulation
 - **Sequence Generation**: Mathematical pattern generation using iterative formulas
 - **Min/Max Algorithms**: Finding extreme values from continuous input streams
+- **Resource Management**: Inventory tracking and space allocation systems
+- **Greedy Algorithms**: Coin change optimization using minimal coin count strategies
+- **Financial Planning**: Budget tracking with spending limits and savings goals
+- **Fitness Tracking**: Goal-based monitoring with early termination conditions
+- **Library Systems**: Search functionality with termination conditions and result tracking
+- **Academic Performance Monitoring**: Grade tracking with early termination for poor performance
+- **Volume and Space Calculations**: 3D space management with overflow detection
+- **String-to-Integer Conversion**: Using `stoi()` for input parsing and validation
+- **Absolute Value Operations**: Using `abs()` for distance and difference calculations
+- **Advanced Loop Control**: Multiple termination conditions and complex state management
 
 ## 🎯 Key Concepts Covered
 
@@ -400,6 +433,15 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Data accumulation and tracking
 - Authentication and verification systems
 - Academic progress monitoring
+- Resource management and inventory tracking
+- Greedy algorithms and optimization
+- Financial planning and budget management
+- Fitness tracking and goal monitoring
+- Library systems and search functionality
+- Volume and space calculations
+- String-to-integer conversion and parsing
+- Absolute value operations
+- Advanced loop control with multiple conditions
 
 ## 📈 Future Plans
 
@@ -416,6 +458,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 30/09/2025*
+*Last updated: 05/10/2025*
 *Course: SoftUni C++ Programming*
 
