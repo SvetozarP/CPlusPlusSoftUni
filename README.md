@@ -151,6 +151,18 @@ This module provides comprehensive practice with advanced while loop programming
 6. **06cake** - Cake serving system that tracks remaining pieces and handles overconsumption scenarios
 7. **07moving** - Moving box tracking system that monitors available space and handles overflow situations
 
+### 11 - Nested Loops Lab
+This module introduces nested loops and advanced iteration patterns in C++, covering multi-dimensional iteration, complex algorithmic problems, and sophisticated loop control structures. The exercises demonstrate practical applications of nested loops in time simulation, mathematical calculations, combination generation, and pattern recognition.
+
+#### Exercises Completed:
+
+1. **01clock** - Digital clock simulation that displays all possible time combinations from 00:00 to 23:59 using nested for loops
+2. **02multiplicationTable** - Complete multiplication table generator that displays all products from 1×1 to 10×10 with formatted output
+3. **03combinations** - Mathematical combination counter that finds all possible ways three numbers can sum to a given value
+4. **04sumOfTwoNumbers** - Magic number finder that searches for two numbers in a range that sum to a target value with combination tracking
+5. **05travelling** - Travel budget tracker that monitors savings accumulation for multiple destinations until budget goals are met
+6. **06building** - Building floor and room numbering system with different room type assignments based on floor level and parity
+
 
 ## 🛠️ Technical Details
 
@@ -271,6 +283,14 @@ CPlusPlus/
 │   ├── 06cake/
 │   ├── 07moving/
 │   └── 10WhileLoopEx.sln
+├── 11NestedLoopsLab/
+│   ├── 01clock/
+│   ├── 02multiplicationTable/
+│   ├── 03combinations/
+│   ├── 04sumOfTwoNumbers/
+│   ├── 05travelling/
+│   ├── 06building/
+│   └── 11NestedLoopsLab.sln
 └── README.md
 ```
 
@@ -297,6 +317,7 @@ Each exercise folder contains:
    - `08ForLoopEx/08ForLoopEx.sln` for for loop exercises and array processing
    - `09WhileLoop/09WhileLoop.sln` for while loop exercises and advanced iteration control
    - `10WhileLoopEx/10WhileLoopEx.sln` for advanced while loop exercises and real-world applications
+   - `11NestedLoopsLab/11NestedLoopsLab.sln` for nested loops exercises and advanced iteration patterns
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -386,6 +407,13 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **String-to-Integer Conversion**: Using `stoi()` for input parsing and validation
 - **Absolute Value Operations**: Using `abs()` for distance and difference calculations
 - **Advanced Loop Control**: Multiple termination conditions and complex state management
+- **Nested Loops**: Multi-dimensional iteration with loops inside other loops
+- **Time Simulation**: Creating digital clock displays and time-based calculations
+- **Mathematical Tables**: Generating multiplication tables and mathematical patterns
+- **Combination Algorithms**: Finding all possible combinations that meet specific criteria
+- **Pattern Recognition**: Creating complex output patterns with conditional formatting
+- **Multi-dimensional Problem Solving**: Solving problems that require nested iteration structures
+- **Algorithm Optimization**: Understanding time complexity in nested loop scenarios
 
 ## 🎯 Key Concepts Covered
 
@@ -442,15 +470,17 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - String-to-integer conversion and parsing
 - Absolute value operations
 - Advanced loop control with multiple conditions
+- Nested loops and multi-dimensional iteration
+- Time simulation and digital clock programming
+- Mathematical table generation and pattern creation
+- Combination algorithms and exhaustive search
+- Complex output formatting and pattern recognition
+- Multi-dimensional problem solving techniques
+- Algorithm complexity analysis and optimization
 
 ## 📈 Future Plans
 
-This repository will continue to grow as I progress through more advanced C++ topics including:
-- Do-while loops and advanced loop structures
-- Functions and advanced array operations
-- Object-oriented programming
-- Data structures and algorithms
-- Advanced C++ features
+Nested loops concludes the content of this repository. For more advanced features, please check my other repositories.
 
 ## 📄 License
 
@@ -458,6 +488,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 05/10/2025*
-*Course: SoftUni C++ Programming*
+*Last updated: 07/10/2025*
+*Course: SoftUni C++ Programming Basics*
 
