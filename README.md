@@ -163,6 +163,18 @@ This module introduces nested loops and advanced iteration patterns in C++, cove
 5. **05travelling** - Travel budget tracker that monitors savings accumulation for multiple destinations until budget goals are met
 6. **06building** - Building floor and room numbering system with different room type assignments based on floor level and parity
 
+### 12 - Nested Loops Exercise
+This module provides comprehensive practice with advanced nested loop programming, covering complex real-world scenarios, mathematical pattern generation, data analysis, and sophisticated algorithmic problem solving. The exercises demonstrate practical applications of nested loops in number theory, academic assessment systems, cinema management, and advanced mathematical computations.
+
+#### Exercises Completed:
+
+1. **01numberPyramid** - Number pyramid generator that creates triangular patterns with sequential numbers using nested loops with dynamic row sizing
+2. **02equalSumsEvenOddPositions** - Number range analyzer that finds numbers where the sum of digits at even positions equals the sum at odd positions
+3. **03sumPrimeNonPrime** - Prime number classifier that separates and sums prime and non-prime numbers from continuous input with mathematical validation
+4. **04trainTheTrainers** - Academic presentation evaluation system that calculates average grades from multiple jury members across multiple presentations
+5. **05specialNumbers** - Special number finder that identifies 4-digit numbers where each digit is a divisor of a given number with zero exclusion
+6. **06cinemaTickets** - Cinema ticket sales management system that tracks occupancy rates and ticket type distribution across multiple movies
+
 
 ## 🛠️ Technical Details
 
@@ -291,6 +303,14 @@ CPlusPlus/
 │   ├── 05travelling/
 │   ├── 06building/
 │   └── 11NestedLoopsLab.sln
+├── 12NestedLoopsEx/
+│   ├── 01numberPyramid/
+│   ├── 02equalSumsEvenOddPositions/
+│   ├── 03sumPrimeNonPrime/
+│   ├── 04trainTheTrainers/
+│   ├── 05specialNumbers/
+│   ├── 06cinemaTickets/
+│   └── 12NestedLoopsEx.sln
 └── README.md
 ```
 
@@ -318,6 +338,7 @@ Each exercise folder contains:
    - `09WhileLoop/09WhileLoop.sln` for while loop exercises and advanced iteration control
    - `10WhileLoopEx/10WhileLoopEx.sln` for advanced while loop exercises and real-world applications
    - `11NestedLoopsLab/11NestedLoopsLab.sln` for nested loops exercises and advanced iteration patterns
+   - `12NestedLoopsEx/12NestedLoopsEx.sln` for advanced nested loops exercises and complex algorithmic problems
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -414,6 +435,14 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Pattern Recognition**: Creating complex output patterns with conditional formatting
 - **Multi-dimensional Problem Solving**: Solving problems that require nested iteration structures
 - **Algorithm Optimization**: Understanding time complexity in nested loop scenarios
+- **Advanced Pattern Generation**: Creating complex mathematical patterns and pyramids with dynamic sizing
+- **Number Theory Applications**: Prime number detection, digit manipulation, and mathematical validation
+- **Academic Assessment Systems**: Multi-level grading systems with jury evaluation and presentation tracking
+- **Business Management Systems**: Cinema ticket sales, occupancy tracking, and revenue analysis
+- **String-to-Number Conversion**: Advanced parsing techniques using `stoi()` and `to_string()`
+- **Mathematical Validation**: Complex number theory algorithms including prime factorization and divisibility
+- **Dynamic Loop Control**: Advanced break conditions and nested loop termination strategies
+- **Data Analysis and Statistics**: Percentage calculations, occupancy rates, and distribution analysis
 
 ## 🎯 Key Concepts Covered
 
@@ -477,6 +506,14 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Complex output formatting and pattern recognition
 - Multi-dimensional problem solving techniques
 - Algorithm complexity analysis and optimization
+- Advanced pattern generation and mathematical pyramids
+- Number theory and prime number algorithms
+- Academic assessment and presentation evaluation systems
+- Business management and cinema ticket sales systems
+- Advanced string-to-number conversion and parsing
+- Mathematical validation and divisibility algorithms
+- Dynamic loop control and termination strategies
+- Data analysis, statistics, and percentage calculations
 
 ## 📈 Future Plans
 
@@ -488,6 +525,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 07/10/2025*
+*Last updated: 09/10/2025*
 *Course: SoftUni C++ Programming Basics*
 
