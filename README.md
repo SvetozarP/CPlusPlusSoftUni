@@ -175,6 +175,16 @@ This module provides comprehensive practice with advanced nested loop programmin
 5. **05specialNumbers** - Special number finder that identifies 4-digit numbers where each digit is a divisor of a given number with zero exclusion
 6. **06cinemaTickets** - Cinema ticket sales management system that tracks occupancy rates and ticket type distribution across multiple movies
 
+### 13 - PB Online Exam 01
+This module represents the first online exam in the C++ Programming Basics course, testing comprehensive understanding of all previously learned concepts through practical, real-world problem solving scenarios. The exam covers financial calculations, sports equipment pricing, game result analysis, and athletic performance evaluation, demonstrating mastery of basic C++ programming fundamentals.
+
+#### Exercises Completed:
+
+1. **01tennisEquipment** - Tennis equipment cost calculator that computes racket and sneaker prices with sponsor cost sharing and Djokovic's contribution using floor/ceil functions
+2. **02basketballEquipment** - Basketball equipment budget calculator that determines total cost including sneakers, outfit, ball, and accessories with percentage-based pricing
+3. **03footballResults** - Football match result analyzer that processes three game results and counts wins, losses, and draws using string character comparison
+4. **04skeleton** - Olympic skeleton race performance evaluator that calculates time with wind resistance factors and determines qualification status
+
 
 ## 🛠️ Technical Details
 
@@ -311,6 +321,12 @@ CPlusPlus/
 │   ├── 05specialNumbers/
 │   ├── 06cinemaTickets/
 │   └── 12NestedLoopsEx.sln
+├── 13PBOnlineExam01/
+│   ├── 01tennisEquipment/
+│   ├── 02basketballEquipment/
+│   ├── 03footballResults/
+│   ├── 04skeleton/
+│   └── 13PBOnlineExam01.sln
 └── README.md
 ```
 
@@ -339,6 +355,7 @@ Each exercise folder contains:
    - `10WhileLoopEx/10WhileLoopEx.sln` for advanced while loop exercises and real-world applications
    - `11NestedLoopsLab/11NestedLoopsLab.sln` for nested loops exercises and advanced iteration patterns
    - `12NestedLoopsEx/12NestedLoopsEx.sln` for advanced nested loops exercises and complex algorithmic problems
+   - `13PBOnlineExam01/13PBOnlineExam01.sln` for the first online exam testing comprehensive C++ programming fundamentals
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -443,6 +460,14 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Mathematical Validation**: Complex number theory algorithms including prime factorization and divisibility
 - **Dynamic Loop Control**: Advanced break conditions and nested loop termination strategies
 - **Data Analysis and Statistics**: Percentage calculations, occupancy rates, and distribution analysis
+- **Exam-Level Problem Solving**: Comprehensive application of all learned concepts in timed assessment scenarios
+- **Financial Calculations**: Advanced cost calculations with sponsor sharing, equipment pricing, and budget management
+- **Sports Analytics**: Game result analysis, performance evaluation, and athletic competition scoring
+- **Mathematical Functions**: Advanced use of `floor()`, `ceil()`, and `cmath` library functions for precise calculations
+- **String Processing**: Character-by-character analysis and comparison for game result parsing
+- **Real-World Applications**: Practical problem solving in sports, finance, and competitive scenarios
+- **Performance Optimization**: Time-based calculations with environmental factors and qualification criteria
+- **Complex Business Logic**: Multi-tier pricing systems, cost sharing, and financial distribution algorithms
 
 ## 🎯 Key Concepts Covered
 
@@ -514,6 +539,14 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Mathematical validation and divisibility algorithms
 - Dynamic loop control and termination strategies
 - Data analysis, statistics, and percentage calculations
+- Exam-level problem solving and comprehensive concept integration
+- Advanced financial calculations and sponsor cost sharing
+- Sports analytics and game result analysis
+- Mathematical functions including floor, ceil, and cmath library
+- String processing and character-by-character analysis
+- Real-world applications in sports and competitive scenarios
+- Performance optimization and time-based calculations
+- Complex business logic and multi-tier pricing systems
 
 ## 📈 Future Plans
 
@@ -525,6 +558,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 09/10/2025*
+*Last updated: 11/10/2025*
 *Course: SoftUni C++ Programming Basics*
 
