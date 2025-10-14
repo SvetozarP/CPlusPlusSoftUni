@@ -184,6 +184,8 @@ This module represents the first online exam in the C++ Programming Basics cours
 2. **02basketballEquipment** - Basketball equipment budget calculator that determines total cost including sneakers, outfit, ball, and accessories with percentage-based pricing
 3. **03footballResults** - Football match result analyzer that processes three game results and counts wins, losses, and draws using string character comparison
 4. **04skeleton** - Olympic skeleton race performance evaluator that calculates time with wind resistance factors and determines qualification status
+5. **05gymnastics** - Rhythmic gymnastics scoring system that calculates team scores based on country and apparatus with difficulty/execution ratings and percentage analysis
+6. **06worldSnookerChampionship** - World Snooker Championship ticket pricing system with multi-tier pricing, bulk discounts, and optional photo packages
 
 
 ## 🛠️ Technical Details
@@ -326,6 +328,8 @@ CPlusPlus/
 │   ├── 02basketballEquipment/
 │   ├── 03footballResults/
 │   ├── 04skeleton/
+│   ├── 05gymnastics/
+│   ├── 06worldSnookerChampionship/
 │   └── 13PBOnlineExam01.sln
 └── README.md
 ```

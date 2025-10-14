@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01tennisEquipment", "01tennisEquipment\01tennisEquipment.vcxproj", "{D23887C2-FB52-4140-B0D1-8F56F18FF9C7}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03footballResults", "03footballResults\03footballResults.vcxproj", "{FEEDC463-F26C-42B3-A28B-E6353D02A0C2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04skeleton", "04skeleton\04skeleton.vcxproj", "{EFE5DB88-5C39-40E3-82E8-E56AD772FBF5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05gymnastics", "05gymnastics\05gymnastics.vcxproj", "{B595BC42-F70B-4F33-8EB3-E5333E617991}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06worldSnookerChampionship", "06worldSnookerChampionship\06worldSnookerChampionship.vcxproj", "{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,22 @@ Global
 		{EFE5DB88-5C39-40E3-82E8-E56AD772FBF5}.Release|x64.Build.0 = Release|x64
 		{EFE5DB88-5C39-40E3-82E8-E56AD772FBF5}.Release|x86.ActiveCfg = Release|Win32
 		{EFE5DB88-5C39-40E3-82E8-E56AD772FBF5}.Release|x86.Build.0 = Release|Win32
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Debug|x64.ActiveCfg = Debug|x64
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Debug|x64.Build.0 = Debug|x64
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Debug|x86.ActiveCfg = Debug|Win32
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Debug|x86.Build.0 = Debug|Win32
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Release|x64.ActiveCfg = Release|x64
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Release|x64.Build.0 = Release|x64
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Release|x86.ActiveCfg = Release|Win32
+		{B595BC42-F70B-4F33-8EB3-E5333E617991}.Release|x86.Build.0 = Release|Win32
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Debug|x64.ActiveCfg = Debug|x64
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Debug|x64.Build.0 = Debug|x64
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Debug|x86.Build.0 = Debug|Win32
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x64.ActiveCfg = Release|x64
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x64.Build.0 = Release|x64
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x86.ActiveCfg = Release|Win32
+		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
