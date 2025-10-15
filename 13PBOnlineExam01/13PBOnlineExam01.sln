@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05gymnastics", "05gymnastic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06worldSnookerChampionship", "06worldSnookerChampionship\06worldSnookerChampionship.vcxproj", "{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07gameNumberWars", "07gameNumberWars\07gameNumberWars.vcxproj", "{5B00E20E-229C-43C9-A214-01A49D8D630E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08darts", "08darts\08darts.vcxproj", "{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +75,22 @@ Global
 		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x64.Build.0 = Release|x64
 		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x86.ActiveCfg = Release|Win32
 		{C1C26C62-992B-4D9F-9F66-0C8353A74FDE}.Release|x86.Build.0 = Release|Win32
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Debug|x64.ActiveCfg = Debug|x64
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Debug|x64.Build.0 = Debug|x64
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Debug|x86.Build.0 = Debug|Win32
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Release|x64.ActiveCfg = Release|x64
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Release|x64.Build.0 = Release|x64
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Release|x86.ActiveCfg = Release|Win32
+		{5B00E20E-229C-43C9-A214-01A49D8D630E}.Release|x86.Build.0 = Release|Win32
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Debug|x64.ActiveCfg = Debug|x64
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Debug|x64.Build.0 = Debug|x64
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Debug|x86.Build.0 = Debug|Win32
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Release|x64.ActiveCfg = Release|x64
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Release|x64.Build.0 = Release|x64
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Release|x86.ActiveCfg = Release|Win32
+		{DDC30E50-FB7F-4063-99F6-2D1DA28B2DF3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

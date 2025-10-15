@@ -176,7 +176,7 @@ This module provides comprehensive practice with advanced nested loop programmin
 6. **06cinemaTickets** - Cinema ticket sales management system that tracks occupancy rates and ticket type distribution across multiple movies
 
 ### 13 - PB Online Exam 01
-This module represents the first online exam in the C++ Programming Basics course, testing comprehensive understanding of all previously learned concepts through practical, real-world problem solving scenarios. The exam covers financial calculations, sports equipment pricing, game result analysis, and athletic performance evaluation, demonstrating mastery of basic C++ programming fundamentals.
+This module represents the first online exam in the C++ Programming Basics course, testing comprehensive understanding of all previously learned concepts through practical, real-world problem solving scenarios. The exam covers financial calculations, sports equipment pricing, game result analysis, athletic performance evaluation, card game simulations, and sports tracking systems, demonstrating mastery of basic C++ programming fundamentals.
 
 #### Exercises Completed:
 
@@ -186,6 +186,8 @@ This module represents the first online exam in the C++ Programming Basics cours
 4. **04skeleton** - Olympic skeleton race performance evaluator that calculates time with wind resistance factors and determines qualification status
 5. **05gymnastics** - Rhythmic gymnastics scoring system that calculates team scores based on country and apparatus with difficulty/execution ratings and percentage analysis
 6. **06worldSnookerChampionship** - World Snooker Championship ticket pricing system with multi-tier pricing, bulk discounts, and optional photo packages
+7. **07gameNumberWars** - Card game simulation that tracks player scores and handles "Number wars" tie-breaking scenarios with nested loop control and game termination logic
+8. **08darts** - Darts game score tracker that monitors player performance with 301-point starting score, shot counting, and retirement/win condition handling
 
 
 ## 🛠️ Technical Details
@@ -330,6 +332,8 @@ CPlusPlus/
 │   ├── 04skeleton/
 │   ├── 05gymnastics/
 │   ├── 06worldSnookerChampionship/
+│   ├── 07gameNumberWars/
+│   ├── 08darts/
 │   └── 13PBOnlineExam01.sln
 └── README.md
 ```
@@ -472,6 +476,9 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Real-World Applications**: Practical problem solving in sports, finance, and competitive scenarios
 - **Performance Optimization**: Time-based calculations with environmental factors and qualification criteria
 - **Complex Business Logic**: Multi-tier pricing systems, cost sharing, and financial distribution algorithms
+- **Game Simulation Systems**: Card game logic with tie-breaking scenarios and nested loop control for game mechanics
+- **Sports Tracking Systems**: Score monitoring, shot counting, and performance analytics with retirement/win condition handling
+- **Advanced Input Processing**: Multi-line input handling with string parsing and game state management
 
 ## 🎯 Key Concepts Covered
 
@@ -551,6 +558,9 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Real-world applications in sports and competitive scenarios
 - Performance optimization and time-based calculations
 - Complex business logic and multi-tier pricing systems
+- Game simulation systems and card game logic
+- Sports tracking systems and performance analytics
+- Advanced input processing and game state management
 
 ## 📈 Future Plans
 
@@ -562,6 +572,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 11/10/2025*
+*Last updated: 15/10/2025*
 *Course: SoftUni C++ Programming Basics*
 
