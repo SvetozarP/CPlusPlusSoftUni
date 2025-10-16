@@ -188,6 +188,8 @@ This module represents the first online exam in the C++ Programming Basics cours
 6. **06worldSnookerChampionship** - World Snooker Championship ticket pricing system with multi-tier pricing, bulk discounts, and optional photo packages
 7. **07gameNumberWars** - Card game simulation that tracks player scores and handles "Number wars" tie-breaking scenarios with nested loop control and game termination logic
 8. **08darts** - Darts game score tracker that monitors player performance with 301-point starting score, shot counting, and retirement/win condition handling
+9. **09tennisRanklist** - Tennis tournament ranking system that calculates final points, average points per tournament, and win percentage based on tournament stage results (W/F/SF)
+10. **10fitnessCenter** - Fitness center activity tracker that categorizes gym activities (Back, Chest, Legs, Abs) and protein consumption, calculating percentage distribution between training and nutrition
 
 
 ## 🛠️ Technical Details
@@ -334,6 +336,8 @@ CPlusPlus/
 │   ├── 06worldSnookerChampionship/
 │   ├── 07gameNumberWars/
 │   ├── 08darts/
+│   ├── 09tennisRanklist/
+│   ├── 10fitnessCenter/
 │   └── 13PBOnlineExam01.sln
 └── README.md
 ```
@@ -479,6 +483,9 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Game Simulation Systems**: Card game logic with tie-breaking scenarios and nested loop control for game mechanics
 - **Sports Tracking Systems**: Score monitoring, shot counting, and performance analytics with retirement/win condition handling
 - **Advanced Input Processing**: Multi-line input handling with string parsing and game state management
+- **Tournament Ranking Systems**: Point calculation algorithms with stage-based scoring and statistical analysis
+- **Activity Categorization**: Data classification systems for tracking and analyzing user behavior patterns
+- **Percentage Distribution Analysis**: Statistical calculations for activity distribution and performance metrics
 
 ## 🎯 Key Concepts Covered
 
@@ -561,6 +568,9 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Game simulation systems and card game logic
 - Sports tracking systems and performance analytics
 - Advanced input processing and game state management
+- Tournament ranking systems and point calculation algorithms
+- Activity categorization and data classification systems
+- Percentage distribution analysis and statistical calculations
 
 ## 📈 Future Plans
 
@@ -572,6 +582,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 15/10/2025*
+*Last updated: 16/10/2025*
 *Course: SoftUni C++ Programming Basics*
 
