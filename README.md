@@ -191,6 +191,18 @@ This module represents the first online exam in the C++ Programming Basics cours
 9. **09tennisRanklist** - Tennis tournament ranking system that calculates final points, average points per tournament, and win percentage based on tournament stage results (W/F/SF)
 10. **10fitnessCenter** - Fitness center activity tracker that categorizes gym activities (Back, Chest, Legs, Abs) and protein consumption, calculating percentage distribution between training and nutrition
 
+### 14 - Exam
+This module represents a comprehensive examination covering advanced C++ programming concepts including cryptocurrency mining calculations, manufacturing production analysis, seasonal pricing systems, data categorization algorithms, demographic analysis, and resource management systems. The exam demonstrates mastery of complex business logic, mathematical calculations, and real-world problem solving scenarios.
+
+#### Exercises Completed:
+
+1. **Task1** - Cryptocurrency mining profitability calculator that computes total investment costs, daily profit per card, and break-even time for a 13-card mining operation with electricity costs and equipment expenses
+2. **Task2** - Manufacturing production analysis system that calculates processor production capacity, compares planned vs actual output, and determines profit/loss based on employee hours and production efficiency
+3. **Task3** - Seasonal tourism pricing system with dynamic rates based on month (spring/summer) and time of day (day/night), including group discounts and extended stay pricing adjustments
+4. **Task4** - Pet care management system that categorizes cats by food consumption ranges, calculates total daily food costs, and provides detailed group statistics for veterinary planning
+5. **Task5** - Christmas gift planning system that processes age-based demographic data, categorizes children vs adults, and calculates budget requirements for toys and sweaters with real-time input processing
+6. **Task6** - Mining operation performance evaluator that tracks gold extraction across multiple locations, compares actual vs expected daily averages, and provides detailed feedback on production targets
+
 
 ## 🛠️ Technical Details
 
@@ -339,6 +351,14 @@ CPlusPlus/
 │   ├── 09tennisRanklist/
 │   ├── 10fitnessCenter/
 │   └── 13PBOnlineExam01.sln
+├── Exam/
+│   ├── Task1/
+│   ├── Task2/
+│   ├── Task3/
+│   ├── Task4/
+│   ├── Task5/
+│   ├── Task6/
+│   └── Exam.sln
 └── README.md
 ```
 
@@ -368,6 +388,7 @@ Each exercise folder contains:
    - `11NestedLoopsLab/11NestedLoopsLab.sln` for nested loops exercises and advanced iteration patterns
    - `12NestedLoopsEx/12NestedLoopsEx.sln` for advanced nested loops exercises and complex algorithmic problems
    - `13PBOnlineExam01/13PBOnlineExam01.sln` for the first online exam testing comprehensive C++ programming fundamentals
+   - `Exam/Exam.sln` for comprehensive examination covering advanced C++ programming concepts and real-world applications
    
 2. Select the project you want to run
 3. Build and run the project (F5 or Ctrl+F5)
@@ -486,6 +507,12 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - **Tournament Ranking Systems**: Point calculation algorithms with stage-based scoring and statistical analysis
 - **Activity Categorization**: Data classification systems for tracking and analyzing user behavior patterns
 - **Percentage Distribution Analysis**: Statistical calculations for activity distribution and performance metrics
+- **Cryptocurrency Mining Calculations**: Investment analysis, profitability calculations, and break-even time determination for mining operations
+- **Manufacturing Production Analysis**: Capacity planning, efficiency calculations, and profit/loss analysis for production systems
+- **Seasonal Pricing Systems**: Dynamic pricing algorithms based on temporal factors with group discounts and extended stay adjustments
+- **Pet Care Management**: Data categorization by consumption ranges and cost analysis for veterinary planning
+- **Demographic Analysis**: Age-based categorization and budget planning for demographic-specific resource allocation
+- **Resource Management Systems**: Multi-location performance tracking with target comparison and feedback systems
 
 ## 🎯 Key Concepts Covered
 
@@ -571,6 +598,12 @@ This repository demonstrates my progression through fundamental C++ concepts:
 - Tournament ranking systems and point calculation algorithms
 - Activity categorization and data classification systems
 - Percentage distribution analysis and statistical calculations
+- Cryptocurrency mining calculations and investment analysis
+- Manufacturing production analysis and capacity planning
+- Seasonal pricing systems and dynamic rate algorithms
+- Pet care management and data categorization
+- Demographic analysis and budget planning
+- Resource management systems and performance tracking
 
 ## 📈 Future Plans
 
@@ -582,6 +615,6 @@ This repository is for educational purposes as part of my SoftUni C++ course jou
 
 ---
 
-*Last updated: 16/10/2025*
+*Last updated: 20/10/2025*
 *Course: SoftUni C++ Programming Basics*
 
